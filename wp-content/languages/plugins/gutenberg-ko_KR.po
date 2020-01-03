@@ -1,0 +1,2480 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Korean
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-07-27 13:15:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ko_KR\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: lib/rest-api.php:253
+msgid "The current user can post HTML markup and JavaScript."
+msgstr "현재 사용자는 HTML 코드와 자바스크립트를 게시할 수 있습니다."
+
+#: languages/gutenberg-translations.php:1542
+msgid "The response is not a valid JSON response."
+msgstr "응답이 유효한 JSON 응답이 아닙니다."
+
+#. translators: accessibility text for the publish landmark region.
+#: languages/gutenberg-translations.php:798
+msgid "Editor publish"
+msgstr "편집기 공개"
+
+#: languages/gutenberg-translations.php:742
+msgid "Muted"
+msgstr "음소거"
+
+#: languages/gutenberg-translations.php:739
+msgid "Video Settings"
+msgstr "비디오 설정"
+
+#: languages/gutenberg-translations.php:490
+msgid "recent comments"
+msgstr "최근 댓글"
+
+#: languages/gutenberg-translations.php:484
+msgid "Latest Comments"
+msgstr "최신 댓글"
+
+#: languages/gutenberg-translations.php:481
+msgid "Display excerpt"
+msgstr "요약 표시"
+
+#: languages/gutenberg-translations.php:478
+msgid "Display date"
+msgstr "날짜 표시"
+
+#: languages/gutenberg-translations.php:475
+msgid "Display avatar"
+msgstr "아바타 표시"
+
+#: languages/gutenberg-translations.php:472
+msgid "Latest Comments Settings"
+msgstr "최신 댓글 설정"
+
+#: languages/gutenberg-translations.php:469
+msgid "Number of comments"
+msgstr "댓글 수"
+
+#: languages/gutenberg-translations.php:191
+msgid "Background Opacity"
+msgstr "배경 투명도"
+
+#: languages/gutenberg-translations.php:41
+msgid "Auto"
+msgstr "자동"
+
+#: languages/gutenberg-translations.php:38
+msgid "Preload"
+msgstr "미리 올림"
+
+#: languages/gutenberg-translations.php:27
+msgid "Audio Settings"
+msgstr "오디오 설정"
+
+#: languages/gutenberg-translations.php:21
+msgid "Display a monthly archive of your site’s Posts."
+msgstr "사이트의 월별 글 보관함 표시"
+
+#: languages/gutenberg-translations.php:15
+msgid "Display as Dropdown"
+msgstr "드랍다운 방식으로 보여주기"
+
+#: languages/gutenberg-translations.php:12
+msgid "Show Post Counts"
+msgstr "글 수 보이기"
+
+#: languages/gutenberg-translations.php:9
+msgid "Archives Settings"
+msgstr "글보관함 설정"
+
+#: gutenberg.php:71
+msgid "https://wordpress.org/support/plugin/gutenberg"
+msgstr "https://wordpress.org/support/plugin/gutenberg"
+
+#: gutenberg.php:69
+msgid "Support"
+msgstr "지원"
+
+#: core-blocks/latest-comments/index.php:108
+msgid "No comments to show."
+msgstr "보여줄 댓글 없음."
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: core-blocks/latest-comments/index.php:64
+msgid "%1$s on %2$s"
+msgstr "%1$s - %2$s"
+
+#: core-blocks/archives/index.php:51
+msgid "Select Post"
+msgstr "글 선택"
+
+#: core-blocks/archives/index.php:48
+msgid "Select Week"
+msgstr "주 선택"
+
+#: core-blocks/archives/index.php:45
+msgid "Select Day"
+msgstr "요일 선택"
+
+#: core-blocks/archives/index.php:42
+msgid "Select Month"
+msgstr "월 선택"
+
+#: core-blocks/archives/index.php:39
+msgid "Select Year"
+msgstr "년도 선택"
+
+#: core-blocks/archives/index.php:24 languages/gutenberg-translations.php:18
+msgid "Archives"
+msgstr "글 보관함"
+
+#: lib/client-assets.php:1347
+msgid "Each color in the \"editor-color-palette\" should have a slug defined."
+msgstr "\"편직기-색상-팔레트\"의 각 색상은 슬러그가 정의돼야 합니다."
+
+#: lib/client-assets.php:1215
+msgid "Setting colors using multiple parameters is deprecated. Please pass a single parameter with an array of colors. See https://wordpress.org/gutenberg/handbook/extensibility/theme-support/ for details."
+msgstr "다중 파라미터를 사용한 색상 설정은 폐기예정입니다. 색상 배열이 있는 단일 파라미터를 패스해주세요. 상세는 https://wordpress.org/gutenberg/handbook/extensibility/theme-support/ 를 보세요."
+
+#: languages/gutenberg-translations.php:1488
+msgid "very dark gray"
+msgstr "very dark gray"
+
+#: languages/gutenberg-translations.php:1485
+msgid "cyan bluish gray"
+msgstr "cyan bluish gray"
+
+#: languages/gutenberg-translations.php:1482
+msgid "very light gray"
+msgstr "very light gray"
+
+#: languages/gutenberg-translations.php:1479
+msgid "vivid cyan blue"
+msgstr "vivid cyan blue"
+
+#: languages/gutenberg-translations.php:1476
+msgid "pale cyan blue"
+msgstr "pale cyan blue"
+
+#: languages/gutenberg-translations.php:1473
+msgid "vivid green cyan"
+msgstr "vivid green cyan"
+
+#: languages/gutenberg-translations.php:1470
+msgid "light green cyan"
+msgstr "light green cyan"
+
+#: languages/gutenberg-translations.php:1467
+msgid "luminous vivid amber"
+msgstr "luminous vivid amber"
+
+#: languages/gutenberg-translations.php:1464
+msgid "luminous vivid orange"
+msgstr "luminous vivid orange"
+
+#: languages/gutenberg-translations.php:1461
+msgid "vivid red"
+msgstr "vivid red"
+
+#: languages/gutenberg-translations.php:1458
+msgid "pale pink"
+msgstr "pale pink"
+
+#: languages/gutenberg-translations.php:1382
+msgid "Inline Elements"
+msgstr "인라인 요소"
+
+#: languages/gutenberg-translations.php:1361
+msgid "Inline Image"
+msgstr "인라인 이미지"
+
+#: languages/gutenberg-translations.php:1087
+msgid "Available block types"
+msgstr "가능한 블록 타입"
+
+#: languages/gutenberg-translations.php:1044
+msgid "Welcome to the wonderful world of blocks! Click the “+” (“Add block”) button to add a new block. There are blocks available for all kind of content: you can insert text, headings, images, lists, and lots more!"
+msgstr "멋진 블록의 세계에 오신 것을 환영합니다! \"+\" (\"블록 추가\") 버튼을 클릭해 새 블록을 추가하세요. 모든 종류의 가능한 블록이 있습니다: 텍스트, 헤딩, 이미지, 목록, 더 많은 것을 추가할 수 있습니다!"
+
+#: languages/gutenberg-translations.php:1021
+msgid "Transform To:"
+msgstr "다음으로 변형하기:"
+
+#: languages/gutenberg-translations.php:1018
+msgid "Apply style variation \"%s\""
+msgstr "스타일 옵션 \"%s\" 적용하기"
+
+#: languages/gutenberg-translations.php:995
+msgid "Remove Block"
+msgstr "블록 제거"
+
+#: languages/gutenberg-translations.php:794
+msgid "Open publish panel"
+msgstr "공개하기 패널 열기"
+
+#: languages/gutenberg-translations.php:649
+msgid "Dots"
+msgstr "점"
+
+#: languages/gutenberg-translations.php:646
+msgid "Wide Line"
+msgstr "넓은 라인"
+
+#: languages/gutenberg-translations.php:643
+msgid "Short Line"
+msgstr "짧은 라인"
+
+#: languages/gutenberg-translations.php:628
+msgid "Large"
+msgstr "크게"
+
+#: languages/gutenberg-translations.php:625
+msgid "Regular"
+msgstr "보통 크기"
+
+#: languages/gutenberg-translations.php:460
+msgid "Link URL"
+msgstr "링크 URL"
+
+#: languages/gutenberg-translations.php:422
+msgid "Custom URL"
+msgstr "사용자 정의 URL"
+
+#: languages/gutenberg-translations.php:327
+msgid "Show Download Button"
+msgstr "다운로드 버튼 보이기"
+
+#: languages/gutenberg-translations.php:324
+msgid "Download Button Settings"
+msgstr "다운로드 버튼 설정"
+
+#: languages/gutenberg-translations.php:321
+msgid "Open in New Window"
+msgstr "새 창에서 열기"
+
+#: languages/gutenberg-translations.php:318
+msgid "Link To"
+msgstr "링크"
+
+#: languages/gutenberg-translations.php:314
+msgid "Text Link Settings"
+msgstr "텍스트 링크 설정"
+
+#: languages/gutenberg-translations.php:297
+msgid "The download button is hidden."
+msgstr "다운로드 버튼 숨겨짐."
+
+#: languages/gutenberg-translations.php:294
+msgid "The download button is shown."
+msgstr "다운로드 버튼 보임."
+
+#: languages/gutenberg-translations.php:291
+msgid "Download"
+msgstr "다운로드"
+
+#: languages/gutenberg-translations.php:288
+msgid "pdf"
+msgstr "pdf"
+
+#: languages/gutenberg-translations.php:285
+msgid "document"
+msgstr "문서"
+
+#: languages/gutenberg-translations.php:282
+msgid "Add a link to a file that visitors can download."
+msgstr "방문자가 다운로드 할 수 있도록 파일에 링크 추가."
+
+#: languages/gutenberg-translations.php:279
+msgid "Copy URL"
+msgstr "URL 복사"
+
+#: languages/gutenberg-translations.php:271
+msgid "Write file name…"
+msgstr "파일 이름 쓰기..."
+
+#: languages/gutenberg-translations.php:268
+msgid "Edit file"
+msgstr "파일 편집"
+
+#: languages/gutenberg-translations.php:265
+msgid "a file"
+msgstr "파일"
+
+#: languages/gutenberg-translations.php:262
+msgid "File"
+msgstr "파일"
+
+#: languages/gutenberg-translations.php:162
+msgid "A single column within a columns block."
+msgstr "컬럼 블록 안에 단일 컬럼."
+
+#: languages/gutenberg-translations.php:159
+msgid "Column"
+msgstr "컬럼"
+
+#: languages/gutenberg-translations.php:122
+msgid "Squared"
+msgstr "Squared"
+
+#: languages/gutenberg-translations.php:119
+msgid "Outline"
+msgstr "Outline"
+
+#: languages/gutenberg-translations.php:116
+msgid "Rounded"
+msgstr "Rounded"
+
+#: languages/gutenberg-translations.php:35
+msgid "Loop"
+msgstr "연속재생"
+
+#: languages/gutenberg-translations.php:31
+msgid "Autoplay"
+msgstr "자동 실행"
+
+#: languages/gutenberg-translations.php:745
+msgid "Playback Controls"
+msgstr "실행 제어"
+
+#: languages/gutenberg-translations.php:1615
+msgid "Close dialog"
+msgstr "대화상자 닫기"
+
+#: languages/gutenberg-translations.php:1675
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "죄송합니다. 이 파일 타입은 보안을 이유로 허용되지 않습니다."
+
+#: languages/gutenberg-translations.php:1664
+msgid "Disable tips"
+msgstr "팁 비활성화"
+
+#: languages/gutenberg-translations.php:1661
+msgid "Got it"
+msgstr "알았습니다"
+
+#: languages/gutenberg-translations.php:1658
+msgid "See next tip"
+msgstr "다음 팁 보기"
+
+#: languages/gutenberg-translations.php:1655
+msgid "Gutenberg tips"
+msgstr "구텐베르그 팁"
+
+#: languages/gutenberg-translations.php:1269
+msgid "Finished writing? That’s great, let’s get this published right now. Just click ‘Publish’ and you’re good to go."
+msgstr "쓰기가 완료됐나요? 멋지네요. 지금 공개하려면 '공개하기'를 클릭하고 나가면 됩니다."
+
+#: languages/gutenberg-translations.php:1254
+msgid "When you're ready, submit your work for review, and an Editor will be able to approve it for you."
+msgstr "준비가 되면 리뷰를 위해 자신의 작업물을 제출하세요. 그러면 편집자가 승인할 것입니다."
+
+#: languages/gutenberg-translations.php:1248
+msgid "Are you ready to submit for review?"
+msgstr "리뷰를 위한 제출이 준비가 됐나요?"
+
+#: languages/gutenberg-translations.php:1200
+msgid "Click ‘Preview’ to load a preview of this page, so you can make sure you’re happy with your blocks."
+msgstr "이 페이지의 미리보기를 로드하려면 '미리보기'를 클릭하세요. 자신의 블록이 잘 됐는지 확인할 수 있습니다."
+
+#: languages/gutenberg-translations.php:1145
+msgid "Replace image"
+msgstr "이미지 교체"
+
+#: languages/gutenberg-translations.php:1139
+msgid "Remove image"
+msgstr "이미지 제거"
+
+#: languages/gutenberg-translations.php:998
+msgid "Hide Options"
+msgstr "옵션 감추기"
+
+#: languages/gutenberg-translations.php:791
+msgid "Show Tips"
+msgstr "팁 보이기"
+
+#: languages/gutenberg-translations.php:773
+msgid "You’ll find more settings for your page and blocks in the sidebar. Click ‘Settings’ to open it."
+msgstr "사이드바에서 자신의 페이지와 블록에 대한 더 많은 설정을 찾을 수 있습니다. 열려면 '설정'을 클릭하세요."
+
+#: lib/class-wp-rest-autosaves-controller.php:271
+msgid "Preview link for the post."
+msgstr "글에 대한 미리보기 링크."
+
+#: lib/class-wp-rest-autosaves-controller.php:322
+msgid "There is nothing to save. The autosave and the post content are the same."
+msgstr "저장할 것이 없습니다. 자동저장 내용과 글 콘텐츠가 같습니다."
+
+#: lib/class-wp-rest-autosaves-controller.php:222
+msgid "There is no autosave revision for this post."
+msgstr "이 글에 대한 자동저장 버전이 없습니다."
+
+#: lib/class-wp-rest-autosaves-controller.php:216
+msgid "Invalid parent post ID."
+msgstr "유효하지 않은 부모 글 ID."
+
+#: lib/class-wp-rest-autosaves-controller.php:152
+msgid "Invalid item ID."
+msgstr "유효하지 않은 아이템 ID."
+
+#: lib/class-wp-rest-autosaves-controller.php:108
+msgid "The ID for the object."
+msgstr "오브젝트에 대한 ID."
+
+#: lib/class-wp-rest-autosaves-controller.php:80
+#: lib/class-wp-rest-autosaves-controller.php:104
+msgid "The ID for the parent of the object."
+msgstr "오브젝트의 부모에 대한 ID."
+
+#. translators: %s: file name
+#: languages/gutenberg-translations.php:1672
+msgid "Error while uploading file %s to the media library."
+msgstr "파일 %s를 미디어 라이브러리에 업로드 중 에러."
+
+#. translators: %s: file name
+#: languages/gutenberg-translations.php:1668
+msgid "%s exceeds the maximum upload size for this site."
+msgstr "%s이(가) 이 사이트의 최대 업로드 사이즈를 초과합니다."
+
+#: languages/gutenberg-translations.php:1524
+msgid "View the autosave"
+msgstr "자동저장 보기"
+
+#: languages/gutenberg-translations.php:1521
+msgid "There is an autosave of this post that is more recent than the version below."
+msgstr "이 글은 아래 버전보다 최신의 자동저장 버전이 있습니다."
+
+#: languages/gutenberg-translations.php:1272
+msgid "Autosaving"
+msgstr "자동저장중"
+
+#. translators: %s: media name label e.g: "an audio","an image", "a video"
+#: languages/gutenberg-translations.php:1100
+msgid "Drag %s, upload a new one or select a file from your library."
+msgstr "%s을(를) 드래그해서 새 것을 업로드 하거나 라이브러리에서 파일을 선택하세요."
+
+#: languages/gutenberg-translations.php:1103
+msgid "Enter URL here…"
+msgstr "여기에 URL을 입력하세요..."
+
+#: languages/gutenberg-translations.php:1090
+msgid "Most Used"
+msgstr "가장 많이 사용됨"
+
+#: languages/gutenberg-translations.php:753
+msgid "a video"
+msgstr "비디오"
+
+#: languages/gutenberg-translations.php:198
+msgid "an image"
+msgstr "이미지"
+
+#: languages/gutenberg-translations.php:175
+msgid "beta"
+msgstr "베타"
+
+#: languages/gutenberg-translations.php:64
+msgid "an audio"
+msgstr "오디오"
+
+#: languages/gutenberg-translations.php:587
+msgid "Add some basic text."
+msgstr "텍스트 추가하기."
+
+#: languages/gutenberg-translations.php:1652
+msgid "No results found."
+msgstr "결과가 없습니다."
+
+#: languages/gutenberg-translations.php:673
+msgid "Subheading"
+msgstr "부제목"
+
+#: lib/rest-api.php:477
+msgid "Sorry, you are not allowed make unbounded queries."
+msgstr "죄송합니다. 무제한의 쿼리를 만들 권한이 없습니다."
+
+#: lib/rest-api.php:337
+msgid "The current user can assign terms."
+msgstr "현재 사용자는 텀을 배정할 수 있습니다."
+
+#: lib/rest-api.php:321
+msgid "The current user can create terms."
+msgstr "현재 사용자는 텀을 생성할 수 있습니다."
+
+#: lib/rest-api.php:291
+msgid "The current user can sticky this post."
+msgstr "현재 사용자는 이 글을 붙박이로 할 수 있습니다."
+
+#: lib/rest-api.php:270
+msgid "The current user can publish this post."
+msgstr "현재 사용자는 이 글을 공개할 수 있습니다."
+
+#: lib/rest-api.php:236
+msgid "The current user can change the author on this post."
+msgstr "현재 사용자는 이 글에서 글쓴이를 변경할 수 있습니다."
+
+#: languages/gutenberg-translations.php:827
+msgid "Pin to toolbar"
+msgstr "툴바에 고정"
+
+#: languages/gutenberg-translations.php:824
+msgid "Unpin from toolbar"
+msgstr "툴바에서 제거"
+
+#: languages/gutenberg-translations.php:756
+msgid "Embed a video file and a simple video player."
+msgstr "비디오 파일과 단순한 비디오 플레이어 임베드."
+
+#: languages/gutenberg-translations.php:727
+msgid "A block for haiku? Why not? Blocks for all the things! (See what we did here?)"
+msgstr "하이쿠용 블록? 있습니다. 모든 것에 대한 블록이 있죠! (우리가 뭘 했는지 보시겠습니까?)"
+
+#: languages/gutenberg-translations.php:721
+msgid "Add text, and display it in two or more columns. Like a newspaper! This block is experimental."
+msgstr "텍스트를 추가하고 두 개 또는 더 많은 컬럼에 표시하세요. 신문처럼 됩니다! 이 블록은 실험용입니다."
+
+#: languages/gutenberg-translations.php:691
+msgid "Insert a table -- perfect for sharing charts and data."
+msgstr "테이블을 추가하세요 -- 차트와 데이터 공유에 최고입니다."
+
+#: languages/gutenberg-translations.php:685
+msgid "Fixed width table cells"
+msgstr "고정 폭 테이블 셀"
+
+#: languages/gutenberg-translations.php:682
+msgid "Table Settings"
+msgstr "테이블 설정"
+
+#: languages/gutenberg-translations.php:676
+msgid "What's a subhead? Smaller than a headline, bigger than basic text."
+msgstr "부제목은 헤드라인보다는 작고 본문 글자보다는 큽니다."
+
+#: languages/gutenberg-translations.php:652
+msgid "Add a shortcode -- a WordPress-specific snippet of code written between square brackets."
+msgstr "숏코드를 추가하세요 -- 대괄호로 만들어진 워드프레스에 특화된 코드 조각입니다."
+
+#: languages/gutenberg-translations.php:634
+msgid "Insert a horizontal line where you want to create a break between ideas."
+msgstr "콘텐츠 사이를 분리하려면 수평선을 추가하세요."
+
+#: languages/gutenberg-translations.php:622
+msgid "Maybe someone else said it better -- add some quoted text."
+msgstr "누군가의 더 나은 것을 인용하려면 -- 인용 글을 추가하세요."
+
+#: languages/gutenberg-translations.php:610
+msgid "Highlight a quote from your post or page by displaying it as a graphic element."
+msgstr "그래픽 요소로 표시해서 인용을 자신의 글이나 페이지에서 강조하세요."
+
+#: languages/gutenberg-translations.php:596
+msgid "Add text that respects your spacing and tabs, and also allows styling."
+msgstr "여백과 탭을 존중하는 텍스트를 추가하세요. 스타일도 허용됩니다."
+
+#: languages/gutenberg-translations.php:554
+msgid "Want to show only part of this post on your blog's home page? Insert a \"More\" block where you want the split."
+msgstr "자신의 블로그 홈페이지에이 글의 일부를 노출시키고 싶은가요? 분리하길 원하는 곳에 \"더보기\" 블록을 추가하세요."
+
+#: languages/gutenberg-translations.php:536
+msgid "Numbers, bullets, up to you. Add a list of items."
+msgstr "숫자, 불릿은 선택할 수 있습니다. 아이템 목록을 추가하세요."
+
+#: languages/gutenberg-translations.php:512
+msgid "Display a list of your most recent posts."
+msgstr "자신의 최신 글 목록 표시."
+
+#: languages/gutenberg-translations.php:466
+msgid "They're worth 1,000 words! Insert a single image."
+msgstr "백마디 말보다 가치가 있는 것! 단일 이미지를 추가하세요."
+
+#: languages/gutenberg-translations.php:412
+msgid "Add your own HTML (and view it right here as you edit!)."
+msgstr "자신만의 HTML을 추가하기 (편집하면서 여기서 바로 볼 수 있습니다!)."
+
+#: languages/gutenberg-translations.php:400
+msgid "Insert a headline above your post or page content."
+msgstr "글이나 페이지 콘텐츠 위에 헤드라인 추가하기."
+
+#: languages/gutenberg-translations.php:375
+msgid "Display multiple images in an elegantly organized tiled layout."
+msgstr "우아하게 조화된 타일 레이아웃으로 다중 이미지를 표시하세요."
+
+#: languages/gutenberg-translations.php:339
+msgid "It's the classic WordPress editor and it's a block! Drop the editor right in."
+msgstr "클래식 워드프레스 편집기이며 블록입니다! 이 편집기를 만나보세요."
+
+#. translators: %s: Name of service (e.g. VideoPress, YouTube)
+#: languages/gutenberg-translations.php:255
+msgid "Add a block that displays content pulled from other sites, like Twitter, Instagram or YouTube."
+msgstr "트위터, 인스타그램, 유투브와 같은 다은 사이트에서 가져온 콘텐츠를 표시할 수 있는 블록을 추가하세요."
+
+#: languages/gutenberg-translations.php:204
+msgid "Add a full-width image, and layer text over it — great for headers."
+msgstr "전체 폭 이미지와 그 위에 레이어 텍스트를 추가하세요 -- 헤더에 멋집니다."
+
+#: languages/gutenberg-translations.php:178
+msgid "Add a block that displays content in multiple columns, then add whatever content blocks you'd like."
+msgstr "다중 컬럼에 콘텐츠를 표시할 수 있는 블록을 추가하고 무엇이든 원하는 콘텐츠 블록을 추가하세요."
+
+#: languages/gutenberg-translations.php:156
+msgid "Add text that respects your spacing and tabs -- perfect for displaying code."
+msgstr "여백과 탭을 존중하는 텍스트를 추가하세요 -- 코드를 표시하는데 최고입니다."
+
+#: languages/gutenberg-translations.php:146
+msgid "Display a list of all your site's categories."
+msgstr "자신의 모든 사이트의 카테고리 목록을 표시하세요."
+
+#: languages/gutenberg-translations.php:113
+msgid "Want visitors to click to subscribe, buy, or read more? Get their attention with a button."
+msgstr "방문자로 하여금 구독하기, 구매하기, 더보기를 클릭하길 원하시나요? 버튼으로 주목을 받아보세요."
+
+#: languages/gutenberg-translations.php:67
+msgid "Embed an audio file and a simple audio player."
+msgstr "오디오 파일과 단순 오디오 플레이어 임베드."
+
+#. translators: %s: error message describing the problem
+#: languages/gutenberg-translations.php:1649
+msgid "Error loading block: %s"
+msgstr "블록 로딩중 에러: %s"
+
+#: languages/gutenberg-translations.php:667
+msgid "Spacer Settings"
+msgstr "여백 설정"
+
+#: languages/gutenberg-translations.php:569
+msgid "Showing large initial letter."
+msgstr "첫번째 글자가 크게 보입니다."
+
+#: lib/rest-api.php:78
+msgid "Embed Handler"
+msgstr "임베드 핸들러"
+
+#: lib/class-wp-rest-block-renderer-controller.php:153
+msgid "The rendered block."
+msgstr "만들어진 블록."
+
+#: lib/class-wp-rest-block-renderer-controller.php:88
+msgid "Sorry, you are not allowed to read Gutenberg blocks of this post"
+msgstr "죄송합니다. 이글의 구텐베르그 블록을 읽을 권한이 없습니다."
+
+#: lib/class-wp-rest-block-renderer-controller.php:61
+msgid "ID of the post context."
+msgstr "글 콘텍스트 ID."
+
+#. translators: %s is the name of the block
+#: lib/class-wp-rest-block-renderer-controller.php:55
+msgid "Attributes for %s block"
+msgstr "%s 블록에 대한 속성"
+
+#: lib/class-wp-rest-block-renderer-controller.php:43
+msgid "Unique registered name for the block."
+msgstr "블록에 대한 등록된 독특한 이름."
+
+#: languages/gutenberg-translations.php:1688
+msgctxt "term"
+msgid "Remove %s"
+msgstr "%s 제거"
+
+#: languages/gutenberg-translations.php:1536
+msgid "Untitled shared block"
+msgstr "제목이 없는 공유 블록"
+
+#: languages/gutenberg-translations.php:1191
+msgid "Copy the permalink"
+msgstr "고유주소 복사"
+
+#: languages/gutenberg-translations.php:1188
+msgid "Permalink copied"
+msgstr "고유주소 복사됨"
+
+#: languages/gutenberg-translations.php:670
+msgid "Height in pixels"
+msgstr "높이 - 픽셀"
+
+#: languages/gutenberg-translations.php:664
+msgid "Add an element with empty space and custom height."
+msgstr "빈 여백과 사용자 정의 높이가 있는 요소 추가."
+
+#: languages/gutenberg-translations.php:661
+msgid "Spacer"
+msgstr "여백 설정"
+
+#: languages/gutenberg-translations.php:572
+msgid "Toggle to show a large initial letter."
+msgstr "큰 첫글자 보이기 토글."
+
+#: languages/gutenberg-translations.php:81
+msgid "Name:"
+msgstr "이름:"
+
+#. translators: %s: The name of the color e.g: "vivid red" or color hex code if
+#. name is not available e.g: "#f00".
+#: languages/gutenberg-translations.php:1622
+msgid "(current color: %s)"
+msgstr "(현재 색상: %s)"
+
+#. translators: 1: term name, 2: term position in a set of terms, 3: total term
+#. set count.
+#: languages/gutenberg-translations.php:1612
+msgid "%1$s (%2$s of %3$s)"
+msgstr "%1$s (%3$s 중 %2$s)"
+
+#: languages/gutenberg-translations.php:1608
+msgid "Remove item"
+msgstr "아이템 제거"
+
+#. translators: %s: color hex code e.g: "#f00".
+#: languages/gutenberg-translations.php:1571
+msgid "Color code: %s"
+msgstr "색상 코드: %s"
+
+#: lib/class-wp-rest-block-renderer-controller.php:127
+msgid "Invalid block."
+msgstr "유효하지 않은 블록."
+
+#: languages/gutenberg-translations.php:821
+msgid "Close plugin"
+msgstr "플러그인 닫기"
+
+#: languages/gutenberg-translations.php:1182
+msgid "OK"
+msgstr "OK"
+
+#: languages/gutenberg-translations.php:448
+msgid "Image Size"
+msgstr "이미지 크기"
+
+#: languages/gutenberg-translations.php:1370
+msgid "Open in new window"
+msgstr "새 창 열기"
+
+#: lib/rest-api.php:107
+msgid "The visibility settings for the taxonomy."
+msgstr "택소노미 가시성 설정"
+
+#: languages/gutenberg-translations.php:1112
+msgid "Media Library"
+msgstr "미디어 라이브러리"
+
+#: languages/gutenberg-translations.php:439
+msgid "Image Dimensions"
+msgstr "이미지 크기"
+
+#: languages/gutenberg-translations.php:1266
+msgid "Publish…"
+msgstr "공개..."
+
+#: lib/rest-api.php:133
+msgid "Whether to show the taxonomy in the quick/bulk edit panel."
+msgstr "빠른/일괄 편집 패널에 택소노미 보이기 여부."
+
+#: lib/rest-api.php:129
+msgid "Whether to make the taxonomy available for selection in navigation menus."
+msgstr "내비게이션 메뉴에서 선택을 위해 택소노미 가능화 여부."
+
+#: lib/rest-api.php:125
+msgid "Whether to allow automatic creation of taxonomy columns on associated post-types table."
+msgstr "관련 글타입 테이블에 택소노미 컬럼 자동생성 허용 여부."
+
+#: lib/rest-api.php:121
+msgid "Whether to generate a default UI for managing this taxonomy."
+msgstr "이 택소노미 관리를 위한 기본 UI 생성 여부."
+
+#: lib/rest-api.php:117
+msgid "Whether the taxonomy is publicly queryable."
+msgstr "택소노미가 공개적으로 쿼리 가능한지 여부."
+
+#: lib/rest-api.php:113
+msgid "Whether a taxonomy is intended for use publicly either via the admin interface or by front-end users."
+msgstr "택소노미가 공개적으로 사용을 위한 것인지, 관리자 인터페이스 또는 전면 페이지 사용자를 위한 것인지 여부."
+
+#: languages/gutenberg-translations.php:1385
+msgid "Skip to the selected block"
+msgstr "선택된 블록으로 건너뛰기"
+
+#: languages/gutenberg-translations.php:1263
+msgid "Schedule…"
+msgstr "예약..."
+
+#: languages/gutenberg-translations.php:1185
+msgid "Change Permalinks"
+msgstr "고유주소 변경"
+
+#: languages/gutenberg-translations.php:1179
+msgid "Edit post permalink"
+msgstr "글 고유주소 편집"
+
+#: languages/gutenberg-translations.php:872
+msgid "Show Block Settings"
+msgstr "블록 설정 보이기"
+
+#: languages/gutenberg-translations.php:869
+msgid "Hide Block Settings"
+msgstr "블록 설정 감추기"
+
+#: languages/gutenberg-translations.php:863
+msgid "Block settings closed"
+msgstr "블록 설정 닫힘"
+
+#: languages/gutenberg-translations.php:806
+msgid "Editor settings"
+msgstr "편집기 설정"
+
+#: languages/gutenberg-translations.php:457
+msgid "Link Settings"
+msgstr "링크 설정"
+
+#: languages/gutenberg-translations.php:1367
+msgid "Unlink"
+msgstr "링크 제거"
+
+#: languages/gutenberg-translations.php:566
+msgid "Page break"
+msgstr "페이지 브레이크"
+
+#: languages/gutenberg-translations.php:563
+msgid "pagination"
+msgstr "페이지 처리"
+
+#: languages/gutenberg-translations.php:560
+msgid "next page"
+msgstr "다음 페이지"
+
+#: languages/gutenberg-translations.php:557
+msgid "This block allows you to set break points on your post. Visitors of your blog are then presented with content split into multiple pages."
+msgstr "이 블록은 글에서 브레이크 지점을 설정합니다. 블로그 방문자는 콘텐츠가 다수의 페이지로 분리된 것을 볼 수 있습니다."
+
+#: languages/gutenberg-translations.php:445
+msgid "Height"
+msgstr "높이"
+
+#: languages/gutenberg-translations.php:442
+msgid "Width"
+msgstr "넓이"
+
+#: languages/gutenberg-translations.php:345
+msgid "Thumbnails are not cropped."
+msgstr "썸네일이 잘라지지 않았습니다."
+
+#: languages/gutenberg-translations.php:342
+msgid "Thumbnails are cropped to align."
+msgstr "썸네일이 정렬을 위해 잘라졌습니다."
+
+#: languages/gutenberg-translations.php:926
+msgid "Advanced"
+msgstr "고급"
+
+#: languages/gutenberg-translations.php:1596
+msgid "Add item."
+msgstr "아이템 추가."
+
+#: languages/gutenberg-translations.php:1593
+msgid "Custom Size"
+msgstr "사이즈 지정"
+
+#: languages/gutenberg-translations.php:369
+msgid "Upload an image"
+msgstr "이미지 업로드"
+
+#: languages/gutenberg-translations.php:1418
+msgid "Reset the template"
+msgstr "템플릿 초기화"
+
+#: languages/gutenberg-translations.php:1415
+msgid "Keep it as is"
+msgstr "현재 상태 유지"
+
+#: languages/gutenberg-translations.php:1412
+msgid "The content of your post doesn't match the template assigned to your post type."
+msgstr "글의 콘텐츠가 글 타입에 배정된 템플릿과 일치하지 않습니다."
+
+#: languages/gutenberg-translations.php:1409
+msgid "Resetting the template may result in loss of content, do you want to continue?"
+msgstr "템플릿을 초기화하면 콘텐츠의 손실을 가져올 수 있습니다. 계속하길 원하시나요?"
+
+#: languages/gutenberg-translations.php:1391
+msgid "Document Statistics"
+msgstr "문서 통계"
+
+#: languages/gutenberg-translations.php:1236
+msgid "The post address will be:"
+msgstr "글 주소는 다음으로 됩니다:"
+
+#: languages/gutenberg-translations.php:1230
+msgid "is now scheduled. It will go live on"
+msgstr "지금 예약됐으며 준비될 것입니다."
+
+#: languages/gutenberg-translations.php:1221
+msgid "Scheduled"
+msgstr "예약됨"
+
+#: languages/gutenberg-translations.php:1209
+msgid "Scheduling…"
+msgstr "예약중..."
+
+#: languages/gutenberg-translations.php:899
+msgid "Code editor selected"
+msgstr "코드 편집기 선택됨"
+
+#: languages/gutenberg-translations.php:896
+msgid "Visual editor selected"
+msgstr "비주얼 편집기 선택됨"
+
+#: languages/gutenberg-translations.php:788
+msgid "Plugins"
+msgstr "플러그인"
+
+#. translators: %s: title/name of the shared block
+#: languages/gutenberg-translations.php:91
+msgid "Shared Block: %s"
+msgstr "공유 블록: %s"
+
+#: languages/gutenberg-translations.php:1093
+msgid "Shared"
+msgstr "공유됨"
+
+#: languages/gutenberg-translations.php:1551 lib/client-assets.php:1051
+msgid "Layout Elements"
+msgstr "레이아웃 요소"
+
+#: languages/gutenberg-translations.php:1010
+msgid "Delete Shared Block"
+msgstr "공유 블록 삭제"
+
+#: languages/gutenberg-translations.php:1004
+msgid "Convert to Shared Block"
+msgstr "공유불록으로 전환"
+
+#: languages/gutenberg-translations.php:87
+msgid "Shared Block"
+msgstr "공유 블록"
+
+#: languages/gutenberg-translations.php:1041
+msgid "Add block"
+msgstr "블럭 추가"
+
+#: languages/gutenberg-translations.php:496
+msgid "Grid View"
+msgstr "그리드 보기"
+
+#: languages/gutenberg-translations.php:107
+msgid "Add text…"
+msgstr "텍스트 추가..."
+
+#: languages/gutenberg-translations.php:849
+msgid "Document"
+msgstr "문서"
+
+#: languages/gutenberg-translations.php:878
+msgid "Select or Upload Media"
+msgstr "선택 또는 미디어 업로드"
+
+#: languages/gutenberg-translations.php:201
+msgid "Write title…"
+msgstr "제목 쓰기..."
+
+#: languages/gutenberg-translations.php:1118
+msgid "no title"
+msgstr "제목 없음"
+
+#. translators: %s: heading level e.g: "1", "2", "3"
+#: languages/gutenberg-translations.php:382
+msgid "Heading %d"
+msgstr "헤딩 %d"
+
+#: languages/gutenberg-translations.php:1625
+msgid "Order by"
+msgstr "정렬기준"
+
+#: languages/gutenberg-translations.php:715
+msgid "New Column"
+msgstr "새 열"
+
+#: languages/gutenberg-translations.php:353
+msgid "Gallery"
+msgstr "갤러리"
+
+#: languages/gutenberg-translations.php:128
+msgid "Display as dropdown"
+msgstr "드롭다운으로 보기"
+
+#: languages/gutenberg-translations.php:1024
+msgid "Change block type"
+msgid_plural "Change type of %d blocks"
+msgstr[0] "블록 타입 변경"
+
+#: languages/gutenberg-translations.php:99
+msgid "Text Color"
+msgstr "텍스트 색상"
+
+#: languages/gutenberg-translations.php:736
+msgid "Edit video"
+msgstr "비디오 편집"
+
+#: languages/gutenberg-translations.php:637
+msgid "horizontal-line"
+msgstr "가로줄"
+
+#: languages/gutenberg-translations.php:518
+msgid "Convert to unordered list"
+msgstr "순서없는 목록으로 변경"
+
+#. translators: %s: block title/name to be added
+#: languages/gutenberg-translations.php:1081
+msgid "Add %s"
+msgstr "%s 추가"
+
+#: languages/gutenberg-translations.php:1260
+msgid "Publish:"
+msgstr "공개하기:"
+
+#: languages/gutenberg-translations.php:348
+msgid "Edit Gallery"
+msgstr "갤러리 편집"
+
+#: languages/gutenberg-translations.php:1074
+msgid "Copy Error"
+msgstr "복사 에러"
+
+#: languages/gutenberg-translations.php:1443
+msgid "No results."
+msgstr "결과가 없습니다."
+
+#: languages/gutenberg-translations.php:599
+msgid "Write preformatted text…"
+msgstr "서식이 설정된 텍스트 쓰기..."
+
+#: languages/gutenberg-translations.php:1631
+msgid "Oldest to Newest"
+msgstr "오래된순"
+
+#: languages/gutenberg-translations.php:1142
+msgid "Featured image"
+msgstr "특성 이미지"
+
+#: languages/gutenberg-translations.php:843
+msgid "Close settings"
+msgstr "닫기 설정"
+
+#: languages/gutenberg-translations.php:1628
+msgid "Newest to Oldest"
+msgstr "새로운 순"
+
+#: languages/gutenberg-translations.php:194
+msgid "Cover Image"
+msgstr "커버 이미지"
+
+#: languages/gutenberg-translations.php:1106
+msgid "Use URL"
+msgstr "URL 사용"
+
+#: languages/gutenberg-translations.php:1334
+msgid "Use a secure password"
+msgstr "보안 비일번호 사용"
+
+#: languages/gutenberg-translations.php:502
+msgid "Display post date"
+msgstr "발행일 표시"
+
+#: languages/gutenberg-translations.php:95
+msgid "Background Color"
+msgstr "배경색상"
+
+#: languages/gutenberg-translations.php:336
+msgid "Classic"
+msgstr "클래식"
+
+#: languages/gutenberg-translations.php:406
+msgid "subtitle"
+msgstr "부제목"
+
+#: languages/gutenberg-translations.php:750
+msgid "Video"
+msgstr "비디오"
+
+#: languages/gutenberg-translations.php:655
+msgid "Shortcode"
+msgstr "숏코드"
+
+#: languages/gutenberg-translations.php:1302
+msgid "Tag"
+msgstr "태그"
+
+#: languages/gutenberg-translations.php:385
+msgid "Heading Settings"
+msgstr "헤딩 설정"
+
+#: languages/gutenberg-translations.php:770
+msgid "Settings"
+msgstr "설정"
+
+#: languages/gutenberg-translations.php:1257
+msgid "Visibility:"
+msgstr "가시성:"
+
+#: languages/gutenberg-translations.php:837
+msgid "Status & Visibility"
+msgstr "상태 및 가시성"
+
+#: languages/gutenberg-translations.php:840
+msgid "Visibility"
+msgstr "가시성"
+
+#: languages/gutenberg-translations.php:1027
+msgid "Block Styles"
+msgstr "블럭 스타일"
+
+#: languages/gutenberg-translations.php:1340
+msgid "Post Visibility"
+msgstr "글 가시성"
+
+#: languages/gutenberg-translations.php:855
+msgid "Block"
+msgid_plural "%d Blocks"
+msgstr[0] "블럭"
+
+#. translators: %s: type of embed e.g: "YouTube", "Twitter", etc. "Embed" is
+#. used when no specific type exists
+#: languages/gutenberg-translations.php:211
+msgid "%s URL"
+msgstr "%s URL"
+
+#: languages/gutenberg-translations.php:394
+msgid "Write heading…"
+msgstr "제목 쓰기..."
+
+#: languages/gutenberg-translations.php:1062
+msgid "Redo"
+msgstr "다시하기"
+
+#: languages/gutenberg-translations.php:1065
+msgid "Undo"
+msgstr "되돌리기"
+
+#: languages/gutenberg-translations.php:430
+msgid "Image Settings"
+msgstr "이미지 설정"
+
+#: languages/gutenberg-translations.php:1358
+msgid "Public"
+msgstr "공개"
+
+#: languages/gutenberg-translations.php:1394
+msgid "Words"
+msgstr "단어"
+
+#: languages/gutenberg-translations.php:779
+msgid "Code Editor"
+msgstr "코드 편집기"
+
+#: languages/gutenberg-translations.php:545
+msgid "numbered list"
+msgstr "순서있는 목록"
+
+#: languages/gutenberg-translations.php:688
+msgid "Table"
+msgstr "테이블"
+
+#: languages/gutenberg-translations.php:1245
+msgid "Are you ready to publish?"
+msgstr "공개할 준비가 됐나요?"
+
+#. translators: label for ordering posts by title in descending order
+#: languages/gutenberg-translations.php:1639
+msgid "Z → A"
+msgstr "Z \t A"
+
+#: languages/gutenberg-translations.php:679
+msgid "Write subheading…"
+msgstr "부제목 쓰기..."
+
+#: languages/gutenberg-translations.php:1224
+msgid "Published"
+msgstr "공개됨"
+
+#: languages/gutenberg-translations.php:1580
+msgid "PM"
+msgstr "PM"
+
+#: languages/gutenberg-translations.php:397
+msgid "Heading"
+msgstr "헤딩요소"
+
+#: languages/gutenberg-translations.php:1400
+msgid "Paragraphs"
+msgstr "문단"
+
+#: languages/gutenberg-translations.php:584
+msgid "Paragraph"
+msgstr "문단"
+
+#: languages/gutenberg-translations.php:1506
+msgid "View post"
+msgstr "글 보기"
+
+#: languages/gutenberg-translations.php:1287
+msgid "Stick to the Front Page"
+msgstr "전면 페이지에 고정"
+
+#: languages/gutenberg-translations.php:1176
+msgid "Pending Review"
+msgstr "대기중인 리뷰"
+
+#: languages/gutenberg-translations.php:581
+msgid "Add text or type / to add content"
+msgstr "텍스트를 추가하거나 입력하기 / 컨텐츠 추가하기"
+
+#: languages/gutenberg-translations.php:923
+msgid "No block selected."
+msgstr "블럭이 선택되지 않았습니다."
+
+#: languages/gutenberg-translations.php:578
+msgid "Drop Cap"
+msgstr "드롭 캡"
+
+#: languages/gutenberg-translations.php:453
+msgid "Reset"
+msgstr "초기화"
+
+#: languages/gutenberg-translations.php:1364
+msgid "Link added."
+msgstr "링크 추가됨."
+
+#: languages/gutenberg-translations.php:953
+msgid "Move up"
+msgstr "위로 올리기"
+
+#: languages/gutenberg-translations.php:1331
+msgid "Create password"
+msgstr "비밀번호 생성"
+
+#: languages/gutenberg-translations.php:929
+msgid "Block Toolbar"
+msgstr "블럭 툴바"
+
+#: languages/gutenberg-translations.php:1161
+msgid "Status"
+msgstr "상태"
+
+#: languages/gutenberg-translations.php:188
+msgid "Fixed Background"
+msgstr "고정 배경"
+
+#: languages/gutenberg-translations.php:1115
+msgid "Order"
+msgstr "순서"
+
+#: languages/gutenberg-translations.php:1515
+msgid "Updating failed"
+msgstr "업데이트 실패"
+
+#: languages/gutenberg-translations.php:357
+msgid "images"
+msgstr "이미지"
+
+#: languages/gutenberg-translations.php:1148
+msgid "Set featured image"
+msgstr "특성 이미지 설정"
+
+#: languages/gutenberg-translations.php:182
+msgid "Edit image"
+msgstr "이미지 편집"
+
+#: languages/gutenberg-translations.php:427
+msgid "Image"
+msgstr "이미지"
+
+#: languages/gutenberg-translations.php:185
+msgid "Cover Image Settings"
+msgstr "커버 이미지 설정"
+
+#: languages/gutenberg-translations.php:372
+msgid "Remove Image"
+msgstr "이미지 제거"
+
+#: languages/gutenberg-translations.php:415
+msgid "embed"
+msgstr "임베드"
+
+#: languages/gutenberg-translations.php:782
+msgid "Editor"
+msgstr "편집기"
+
+#: languages/gutenberg-translations.php:363
+msgid "Crop Images"
+msgstr "이미지 자르기"
+
+#: languages/gutenberg-translations.php:1685
+msgctxt "term"
+msgid "%s removed"
+msgstr "%s 제거됨"
+
+#: languages/gutenberg-translations.php:1682
+msgctxt "term"
+msgid "%s added"
+msgstr "%s 추가됨"
+
+#: languages/gutenberg-translations.php:1678
+msgctxt "imperative verb"
+msgid "Preview"
+msgstr "미리보기"
+
+#: languages/gutenberg-translations.php:1533
+msgid "Block deleted."
+msgstr "블록 삭제됨."
+
+#: languages/gutenberg-translations.php:1530
+msgid "Block updated."
+msgstr "블록 업데이트 됨."
+
+#: languages/gutenberg-translations.php:1527
+msgid "Block created."
+msgstr "블록 생성됨."
+
+#: languages/gutenberg-translations.php:1518
+msgid "Trashing failed"
+msgstr "휴지통 처리 실패"
+
+#: languages/gutenberg-translations.php:1512
+msgid "Scheduling failed"
+msgstr "예약 실패"
+
+#: languages/gutenberg-translations.php:1509
+msgid "Publishing failed"
+msgstr "공개 실패"
+
+#: languages/gutenberg-translations.php:1503
+msgid "Post updated!"
+msgstr "글 업데이트 됨!"
+
+#: languages/gutenberg-translations.php:1500
+msgid "Post scheduled!"
+msgstr "글 예약됨!"
+
+#: languages/gutenberg-translations.php:1497
+msgid "Post published privately!"
+msgstr "글이 비공개로 발행됨!"
+
+#: languages/gutenberg-translations.php:1494
+msgid "Post published!"
+msgstr "글 공개됨!"
+
+#: languages/gutenberg-translations.php:1491
+msgid "Post reverted to draft."
+msgstr "글이 임시글로 전환됨."
+
+#: languages/gutenberg-translations.php:1421
+msgid "You have unsaved changes. If you proceed, they will be lost."
+msgstr "저장되지 않은 변경사항이 있습니다. 계속하면 없어집니다."
+
+#: languages/gutenberg-translations.php:1406
+msgid "Document Outline"
+msgstr "문서 아웃라인"
+
+#: languages/gutenberg-translations.php:1397
+msgid "Headings"
+msgstr "헤딩"
+
+#: languages/gutenberg-translations.php:1388
+msgid "Content Structure"
+msgstr "콘텐츠 구조"
+
+#: languages/gutenberg-translations.php:1355
+msgid "Protected with a password you choose. Only those with the password can view this post."
+msgstr "선택한 비밀번호로 보호됨. 비밀번호가 있는 사람만 이 글을 볼 수 있습니다."
+
+#: languages/gutenberg-translations.php:1352
+msgid "Password Protected"
+msgstr "비밀번호로 보호됨"
+
+#: languages/gutenberg-translations.php:1349
+msgid "Only visible to site admins and editors."
+msgstr "사이트 관리자와 편집자만 볼 수 있습니다."
+
+#: languages/gutenberg-translations.php:1346
+msgid "Private"
+msgstr "비공개"
+
+#: languages/gutenberg-translations.php:1343
+msgid "Visible to everyone."
+msgstr "모든 사람 보기 가능."
+
+#: languages/gutenberg-translations.php:1337
+msgid "Would you like to privately publish this post now?"
+msgstr "지금 이 글을 비공개로 발행하시겠습니끼?"
+
+#: languages/gutenberg-translations.php:1328
+msgid "Move to trash"
+msgstr "휴지통으로 이동"
+
+#: languages/gutenberg-translations.php:1322
+msgid "Parent Term"
+msgstr "부모 텀"
+
+#: languages/gutenberg-translations.php:1319
+msgid "Parent Category"
+msgstr "부모 카테고리"
+
+#: languages/gutenberg-translations.php:1316
+msgid "Add new term"
+msgstr "새 텀 추가"
+
+#: languages/gutenberg-translations.php:1313
+msgid "Add new category"
+msgstr "새 카테고리 추가"
+
+#: languages/gutenberg-translations.php:1306
+msgid "Term"
+msgstr "텀"
+
+#: languages/gutenberg-translations.php:1299
+msgid "Add New Term"
+msgstr "새 텀 추가"
+
+#: languages/gutenberg-translations.php:1296
+msgid "Add New Tag"
+msgstr "새 태그 추가"
+
+#: languages/gutenberg-translations.php:1293
+msgid "Switch to Draft"
+msgstr "임시글로 전환"
+
+#: languages/gutenberg-translations.php:1290
+msgid "Are you sure you want to unpublish this post?"
+msgstr "정말로 이글을 발행 취소하시겠습니까?"
+
+#: languages/gutenberg-translations.php:1284
+msgid "Immediately"
+msgstr "즉시"
+
+#: languages/gutenberg-translations.php:1281
+msgid "Save Draft"
+msgstr "임시 글로 저장하기"
+
+#: languages/gutenberg-translations.php:1275
+msgid "Saving"
+msgstr "저장중"
+
+#: languages/gutenberg-translations.php:1251
+msgid "Here, you can do a last-minute check up of your settings below, before you publish."
+msgstr "여기서 공개하기 전에 마지막으로 설정을 점검할 수 있습니다."
+
+#: languages/gutenberg-translations.php:1242
+msgid "Copy Link"
+msgstr "링크 복사하기"
+
+#: languages/gutenberg-translations.php:1239
+msgid "What's next?"
+msgstr "다음은?"
+
+#: languages/gutenberg-translations.php:1233
+msgid "is now live."
+msgstr "현재 라이브 상태입니다."
+
+#: languages/gutenberg-translations.php:1227
+msgid "Close Publish Panel"
+msgstr "공개하기 패널 닫기"
+
+#: languages/gutenberg-translations.php:1218
+msgid "Schedule"
+msgstr "예약"
+
+#: languages/gutenberg-translations.php:1215
+msgid "Update"
+msgstr "업데이트"
+
+#: languages/gutenberg-translations.php:1212
+msgid "Submit for Review"
+msgstr "리뷰를 위한 제출"
+
+#: languages/gutenberg-translations.php:1206
+msgid "Updating…"
+msgstr "업데이트 중..."
+
+#: languages/gutenberg-translations.php:1203
+msgid "Publishing…"
+msgstr "공개중..."
+
+#: languages/gutenberg-translations.php:1197
+msgid "Allow Pingbacks & Trackbacks"
+msgstr "핑백 및 트랙백 허용"
+
+#: languages/gutenberg-translations.php:1194
+msgid "Permalink:"
+msgstr "고유주소:"
+
+#: languages/gutenberg-translations.php:1173
+msgid "%d Revision"
+msgid_plural "%d Revisions"
+msgstr[0] "%d 리비전"
+
+#: languages/gutenberg-translations.php:1170
+msgid "Suggestion:"
+msgstr "제안:"
+
+#: languages/gutenberg-translations.php:1167
+msgid "Post Format"
+msgstr "글 포맷"
+
+#: languages/gutenberg-translations.php:1164
+msgid "Chat"
+msgstr "채팅"
+
+#: languages/gutenberg-translations.php:1158
+msgid "Standard"
+msgstr "표준"
+
+#: languages/gutenberg-translations.php:1151
+msgid "Aside"
+msgstr "추가 정보"
+
+#: languages/gutenberg-translations.php:1136
+msgid "Learn more about manual excerpts"
+msgstr "수동 요약에 대해 더 알아보기"
+
+#: languages/gutenberg-translations.php:1133
+msgid "Write an excerpt (optional)"
+msgstr "요약 쓰기 (선택적)"
+
+#: languages/gutenberg-translations.php:1130
+msgid "Allow Comments"
+msgstr "댓글 허용"
+
+#: lib/client-assets.php:1251
+msgid "Default template"
+msgstr "기본 템플릿"
+
+#: languages/gutenberg-translations.php:1124
+msgid "Template:"
+msgstr "템플릿:"
+
+#: languages/gutenberg-translations.php:1121
+msgid "no parent"
+msgstr "부모 없음"
+
+#: languages/gutenberg-translations.php:1096
+msgid "No blocks found."
+msgstr "블록이 없습니다."
+
+#: languages/gutenberg-translations.php:1278
+msgid "Saved"
+msgstr "저장됨"
+
+#: languages/gutenberg-translations.php:1557 lib/client-assets.php:1059
+msgid "Embeds"
+msgstr "임베드"
+
+#: languages/gutenberg-translations.php:1403
+msgid "Blocks"
+msgstr "블록"
+
+#: languages/gutenberg-translations.php:1084
+msgid "Search for a block"
+msgstr "블록 검색"
+
+#: languages/gutenberg-translations.php:1071
+msgid "Copy Post Text"
+msgstr "글 텍스트 복사"
+
+#: languages/gutenberg-translations.php:1068
+msgid "Attempt Recovery"
+msgstr "복구 시도"
+
+#: languages/gutenberg-translations.php:1077
+msgid "The editor has encountered an unexpected error."
+msgstr "편집기가 예상치 못한 에러를 발견했습니다."
+
+#: languages/gutenberg-translations.php:1059
+msgid "(Click to focus this heading)"
+msgstr "(이 헤딩을 포커스 하려면 클릭)"
+
+#: languages/gutenberg-translations.php:1056
+msgid "(Multiple H1 headings are not recommended)"
+msgstr "(다중 H1 헤딩은 추천하지 않습니다)"
+
+#: languages/gutenberg-translations.php:1053
+msgid "(Your theme may already use a H1 for the post title)"
+msgstr "(사용중인 테마가 이미 글 제목으로 H1을 사용하고 있을 수도 있습니다)"
+
+#: languages/gutenberg-translations.php:1050
+msgid "(Incorrect heading level)"
+msgstr "(올바르지 않은 헤딩 레벨)"
+
+#: languages/gutenberg-translations.php:1047
+msgid "(Empty heading)"
+msgstr "(빈 헤딩)"
+
+#: languages/gutenberg-translations.php:1037 lib/client-assets.php:1261
+msgid "Write your story"
+msgstr "자신의 이야기를 쓰세요"
+
+#: languages/gutenberg-translations.php:1013
+msgid ""
+"Are you sure you want to delete this Shared Block?\n"
+"\n"
+"It will be permanently removed from all posts and pages that use it."
+msgstr ""
+"정말로 이 공유 블록을 삭제하시겠습니까?\n"
+"\n"
+"이것을 사용하는 모든 글과 페이지에서 영구적으로 삭제됩니다."
+
+#: languages/gutenberg-translations.php:1007
+msgid "Convert to Regular Block"
+msgstr "일반 블록으로 전환"
+
+#: languages/gutenberg-translations.php:1001
+msgid "More Options"
+msgstr "더 많은 옵션"
+
+#: languages/gutenberg-translations.php:992
+msgid "Edit visually"
+msgstr "비주얼로 편집"
+
+#: languages/gutenberg-translations.php:989
+msgid "Duplicate"
+msgstr "복제"
+
+#: languages/gutenberg-translations.php:986
+msgid "Move %(selectedCount)d blocks from position %(position)d up by one place"
+msgstr "%(selectedCount)d 블록을 포지션 %(position)d로부터 한 단계 위로 이동"
+
+#: languages/gutenberg-translations.php:983
+msgid "Blocks cannot be moved down as they are already at the bottom"
+msgstr "블록은 이미 하단에 있으므로 아래로 이동할 수 없습니다"
+
+#: languages/gutenberg-translations.php:980
+msgid "Blocks cannot be moved up as they are already at the top"
+msgstr "블록은 이미 상단에 있으므로 위로 이동할 수 없습니다"
+
+#. translators: %s: Type of block (i.e. Text, Image etc)
+#: languages/gutenberg-translations.php:977
+msgid "Block %s is at the beginning of the content and can’t be moved up"
+msgstr "블록 %s은(는) 콘텐츠의 시작 부분에 있으며 위로 이동할 수 없습니다"
+
+#: languages/gutenberg-translations.php:973
+msgid "Move %(type)s block from position %(position)d up to position %(newPosition)d"
+msgstr "%(type)s 블록을 포지션 %(position)d(으)로부터 포지션 %(newPosition)d(으)로 위로 이동"
+
+#. translators: %s: Type of block (i.e. Text, Image etc)
+#: languages/gutenberg-translations.php:970
+msgid "Block %s is at the end of the content and can’t be moved down"
+msgstr "블록 %s은(는) 콘텐츠의 끝에 있으므로 아래로 이동할 수 없습니다."
+
+#: languages/gutenberg-translations.php:966
+msgid "Move %(type)s block from position %(position)d down to position %(newPosition)d"
+msgstr "%(type)s 블록을 포지션 %(position)d(으)로부터 포지션 %(newPosition)d(으)로 아래로 이동"
+
+#. translators: %s: Type of block (i.e. Text, Image etc)
+#: languages/gutenberg-translations.php:963
+msgid "Block %s is the only block, and cannot be moved"
+msgstr "블록 %s은(는) 블록일뿐이므로 이동할 수 없습니다"
+
+#: languages/gutenberg-translations.php:959
+msgid "Move %(selectedCount)d blocks from position %(position)s down by one place"
+msgstr "%(selectedCount)d 블록을 포지션 %(position)s로부터 한 단계 아래로 이동"
+
+#: languages/gutenberg-translations.php:956
+msgid "Move down"
+msgstr "아래로 이동"
+
+#: languages/gutenberg-translations.php:947
+msgid "Edit as HTML"
+msgstr "HTML로 편집"
+
+#: languages/gutenberg-translations.php:943
+msgid "Convert to Blocks"
+msgstr "블록으로 변환"
+
+#: languages/gutenberg-translations.php:950
+msgid "This block appears to have been modified externally."
+msgstr "이 블록은 외부적으로 수정된 것으로 보입니다."
+
+#: languages/gutenberg-translations.php:939
+msgid "Insert block"
+msgstr "블록 삽입"
+
+#. translators: %s: Type of block (i.e. Text, Image etc)
+#: languages/gutenberg-translations.php:936
+msgid "Block: %s"
+msgstr "블록: %s"
+
+#: languages/gutenberg-translations.php:932
+msgid "This block has encountered an error and cannot be previewed."
+msgstr "이 블록은 에러가 있으며 미리보기 할 수 없습니다."
+
+#: languages/gutenberg-translations.php:920
+msgid "Coming Soon"
+msgstr "곧 나옵니다"
+
+#: languages/gutenberg-translations.php:890
+msgid "Transform into:"
+msgstr "다음으로 변형하기:"
+
+#: languages/gutenberg-translations.php:887
+msgid "Remove"
+msgstr "제거"
+
+#: languages/gutenberg-translations.php:884
+msgid "Find original"
+msgstr "원본 찾기"
+
+#: languages/gutenberg-translations.php:893
+msgid "This block may not be used more than once."
+msgstr "이 블록은 두번 이상 사용할 수 없습니다."
+
+#: languages/gutenberg-translations.php:881
+msgid "Copy All Content"
+msgstr "모든 콘텐츠 복사"
+
+#: languages/gutenberg-translations.php:276
+msgid "Copied!"
+msgstr "복사됨!"
+
+#: languages/gutenberg-translations.php:866
+msgid "Additional settings are now available in the Editor block settings sidebar"
+msgstr "추가적인 설정은 편집기 블록 설정 사이드바에서 가능합니다."
+
+#: languages/gutenberg-translations.php:815
+msgid "Page Attributes"
+msgstr "페이지 속성"
+
+#: languages/gutenberg-translations.php:852
+msgid "Block settings"
+msgstr "블록 설정"
+
+#: languages/gutenberg-translations.php:846
+msgid "Document settings"
+msgstr "문서 설정"
+
+#: languages/gutenberg-translations.php:812
+msgid "Featured Image"
+msgstr "특성 이미지"
+
+#: languages/gutenberg-translations.php:818
+msgid "Editor plugins"
+msgstr "편집기 플러그인"
+
+#. translators: accessibility text for the content landmark region.
+#: languages/gutenberg-translations.php:802
+msgid "Editor content"
+msgstr "편집기 콘텐츠"
+
+#: languages/gutenberg-translations.php:785
+msgid "Tools"
+msgstr "도구"
+
+#: languages/gutenberg-translations.php:776
+msgid "Visual Editor"
+msgstr "비주얼 편집기"
+
+#. translators: accessibility text for the top bar landmark region.
+#: languages/gutenberg-translations.php:766
+msgid "Editor top bar"
+msgstr "편집기 탑바"
+
+#: languages/gutenberg-translations.php:762
+msgid "Editor Toolbar"
+msgstr "편집기 툴바"
+
+#: languages/gutenberg-translations.php:759
+msgid "Fix Toolbar to Top"
+msgstr "툴바를 상단에 고정"
+
+#: languages/gutenberg-translations.php:1618
+msgid "Dismiss this notice"
+msgstr "이 알림 무시"
+
+#: languages/gutenberg-translations.php:1605
+msgid "Item removed."
+msgstr "아이템 제거됨."
+
+#: languages/gutenberg-translations.php:1602
+msgid "Item added."
+msgstr "아이템 추가됨."
+
+#: languages/gutenberg-translations.php:1599
+msgid "Separate with commas"
+msgstr "콤마로 분리하세요"
+
+#. translators: accessibility text
+#: languages/gutenberg-translations.php:1587
+msgid "(opens in a new window)"
+msgstr "(새 창에 열림)"
+
+#: languages/gutenberg-translations.php:1583
+msgid "Drop files to upload"
+msgstr "업로드 하려면 파일을 놓으세요"
+
+#: languages/gutenberg-translations.php:1577
+msgid "AM"
+msgstr "AM"
+
+#: languages/gutenberg-translations.php:6
+msgid "An unknown error occurred."
+msgstr "알 수 없는 에러 발생함"
+
+#: languages/gutenberg-translations.php:1438
+msgid "%d result found, use up and down arrow keys to navigate."
+msgid_plural "%d results found, use up and down arrow keys to navigate."
+msgstr[0] "%d 결과 찾음. 위 아래로 이동하려면 화살표 키를 사용하세요."
+
+#: languages/gutenberg-translations.php:860
+msgid "(no title)"
+msgstr "(제목 없음)"
+
+#: languages/gutenberg-translations.php:1446
+msgid "Paste URL or type"
+msgstr "페이지 URL 또는 타입"
+
+#: languages/gutenberg-translations.php:301
+msgid "URL"
+msgstr "URL"
+
+#: languages/gutenberg-translations.php:1433
+msgid "Submit"
+msgstr "제출하기"
+
+#: languages/gutenberg-translations.php:1430
+msgid "Close"
+msgstr "닫기"
+
+#: languages/gutenberg-translations.php:1427
+msgid "Insert Link"
+msgstr "링크 삽입"
+
+#: languages/gutenberg-translations.php:1424
+msgid "Edit Link"
+msgstr "링크 편집"
+
+#: languages/gutenberg-translations.php:1155
+msgid "Link"
+msgstr "링크"
+
+#: languages/gutenberg-translations.php:1379
+msgid "Strikethrough"
+msgstr "취소선"
+
+#: languages/gutenberg-translations.php:1376
+msgid "Italic"
+msgstr "이탤릭"
+
+#: languages/gutenberg-translations.php:1373
+msgid "Bold"
+msgstr "굵게"
+
+#: languages/gutenberg-translations.php:1645
+msgid "Number of items"
+msgstr "아이템 수"
+
+#: languages/gutenberg-translations.php:1642
+msgid "All"
+msgstr "모두"
+
+#: languages/gutenberg-translations.php:1310
+msgid "Category"
+msgstr "카테고리"
+
+#. translators: label for ordering posts by title in ascending order
+#: languages/gutenberg-translations.php:1635
+msgid "A → Z"
+msgstr "A \t Z"
+
+#: languages/gutenberg-translations.php:875
+msgid "Select"
+msgstr "선택"
+
+#: languages/gutenberg-translations.php:733
+msgid "Write…"
+msgstr "쓰기..."
+
+#: languages/gutenberg-translations.php:730
+msgid "poetry"
+msgstr "詩"
+
+#: languages/gutenberg-translations.php:724
+msgid "Verse"
+msgstr "산문"
+
+#: languages/gutenberg-translations.php:718
+msgid "Text Columns"
+msgstr "텍스트 컬럼"
+
+#: languages/gutenberg-translations.php:712
+msgid "Delete Column"
+msgstr "컬럼 삭제"
+
+#: languages/gutenberg-translations.php:709
+msgid "Add Column After"
+msgstr "다음에 컬럼 추가"
+
+#: languages/gutenberg-translations.php:706
+msgid "Add Column Before"
+msgstr "이전에 컬럼 추가"
+
+#: languages/gutenberg-translations.php:703
+msgid "Delete Row"
+msgstr "행 삭제"
+
+#: languages/gutenberg-translations.php:700
+msgid "Add Row After"
+msgstr "다음에 행 추가"
+
+#: languages/gutenberg-translations.php:697
+msgid "Add Row Before"
+msgstr "이전에 행 추가"
+
+#: languages/gutenberg-translations.php:694
+msgid "Edit Table"
+msgstr "테이블 편집"
+
+#: languages/gutenberg-translations.php:658
+msgid "Write shortcode here…"
+msgstr "숏코드를 여기서 쓰기..."
+
+#: languages/gutenberg-translations.php:640
+msgid "divider"
+msgstr "나눔자"
+
+#: languages/gutenberg-translations.php:631
+msgid "Separator"
+msgstr "분리자"
+
+#: languages/gutenberg-translations.php:619
+msgid "Quote"
+msgstr "인용"
+
+#. translators: the individual or entity quoted
+#: languages/gutenberg-translations.php:604
+msgid "Write citation…"
+msgstr "인용 쓰기..."
+
+#. translators: the text of the quotation
+#: languages/gutenberg-translations.php:615
+msgid "Write quote…"
+msgstr "인용 텍스트 쓰기..."
+
+#: languages/gutenberg-translations.php:607
+msgid "Pullquote"
+msgstr "요약글"
+
+#: languages/gutenberg-translations.php:593
+msgid "Preformatted"
+msgstr "미리 포맷됨"
+
+#: languages/gutenberg-translations.php:590
+msgid "text"
+msgstr "텍스트"
+
+#: languages/gutenberg-translations.php:1590
+msgid "Font Size"
+msgstr "폰트 사이즈"
+
+#: languages/gutenberg-translations.php:575
+msgid "Text Settings"
+msgstr "텍스트 설정"
+
+#: languages/gutenberg-translations.php:551
+msgid "Hide the teaser before the \"More\" tag"
+msgstr "\"더보기\" 태그 이전의 티저 감추기"
+
+#: languages/gutenberg-translations.php:548
+msgid "Read more"
+msgstr "더 읽기"
+
+#: languages/gutenberg-translations.php:530
+msgid "Write list…"
+msgstr "목록 쓰기..."
+
+#: languages/gutenberg-translations.php:542
+msgid "ordered list"
+msgstr "순서있는 목록"
+
+#: languages/gutenberg-translations.php:539
+msgid "bullet list"
+msgstr "순서없는 목록"
+
+#: languages/gutenberg-translations.php:527
+msgid "Indent list item"
+msgstr "목록 아이템 들여쓰기"
+
+#: languages/gutenberg-translations.php:524
+msgid "Outdent list item"
+msgstr "목록 아이템 내어쓰기"
+
+#: languages/gutenberg-translations.php:521
+msgid "Convert to ordered list"
+msgstr "순서있는 목록으로 변환"
+
+#: languages/gutenberg-translations.php:533
+msgid "List"
+msgstr "목록"
+
+#: languages/gutenberg-translations.php:515
+msgid "recent posts"
+msgstr "최근 글"
+
+#: languages/gutenberg-translations.php:487
+msgid "Show a list of your site’s most recent comments."
+msgstr "사이트 최근 댓글 목록 보이기"
+
+#: languages/gutenberg-translations.php:509
+msgid "No posts found."
+msgstr "글을 찾을 수 없습니다."
+
+#: languages/gutenberg-translations.php:506
+msgid "Latest Posts"
+msgstr "최근 글"
+
+#: languages/gutenberg-translations.php:499
+msgid "Latest Posts Settings"
+msgstr "최신 글 설정"
+
+#: languages/gutenberg-translations.php:493
+msgid "List View"
+msgstr "목록 보기"
+
+#: languages/gutenberg-translations.php:463
+msgid "photo"
+msgstr "사진"
+
+#: languages/gutenberg-translations.php:436
+msgid "Describe the purpose of the image. Leave empty if the image is not a key part of the content."
+msgstr "이미지의 목적을 설명하세요. 이미지가 콘텐츠의 주요 요소가 아니면 비워두세요."
+
+#: languages/gutenberg-translations.php:433
+msgid "Textual Alternative"
+msgstr "대체 텍스트"
+
+#: languages/gutenberg-translations.php:419
+msgid "Preview"
+msgstr "미리보기"
+
+#: languages/gutenberg-translations.php:409
+msgid "Custom HTML"
+msgstr "사용자 정의 HTML"
+
+#: languages/gutenberg-translations.php:403
+msgid "title"
+msgstr "제목"
+
+#: languages/gutenberg-translations.php:388
+msgid "Level"
+msgstr "레벨"
+
+#: languages/gutenberg-translations.php:378
+msgid "photos"
+msgstr "사진"
+
+#: languages/gutenberg-translations.php:49
+msgid "None"
+msgstr "없음"
+
+#: languages/gutenberg-translations.php:306
+msgid "Media File"
+msgstr "미디어 파일"
+
+#: languages/gutenberg-translations.php:311
+msgid "Attachment Page"
+msgstr "첨부 페이지"
+
+#: languages/gutenberg-translations.php:366
+msgid "Link to"
+msgstr "링크"
+
+#: languages/gutenberg-translations.php:360
+msgid "Gallery Settings"
+msgstr "갤러리 설정"
+
+#: languages/gutenberg-translations.php:332
+msgid "More"
+msgstr "더보기"
+
+#: languages/gutenberg-translations.php:258
+msgid "video"
+msgstr "비디오"
+
+#: languages/gutenberg-translations.php:251
+msgid "audio"
+msgstr "오디오"
+
+#: languages/gutenberg-translations.php:248
+msgid "music"
+msgstr "음악"
+
+#: languages/gutenberg-translations.php:245
+msgid "image"
+msgstr "이미지"
+
+#: languages/gutenberg-translations.php:233
+msgid "The Embed block allows you to easily add videos, images, tweets, audio, and other content to your post or page."
+msgstr "임베드 블록으로 비디오, 이미지, 트윗, 오디오, 등 글이나 페이지에 다른 콘텐츠를 쉽게 추가할 수 있습니다."
+
+#: languages/gutenberg-translations.php:242
+msgid "blog"
+msgstr "블로그"
+
+#: languages/gutenberg-translations.php:239
+msgid "post"
+msgstr "글"
+
+#: languages/gutenberg-translations.php:236
+msgid "tweet"
+msgstr "트윗"
+
+#: languages/gutenberg-translations.php:227
+msgid "Previews for this are unavailable in the editor, sorry!"
+msgstr "이것에 대한 미리보기는 편집기에서 가능하지 않습니다. 최송합니다!"
+
+#: languages/gutenberg-translations.php:224
+msgid "Embed URL"
+msgstr "임베드 URL"
+
+#. translators: %s: host providing embed content e.g: www.youtube.com
+#: languages/gutenberg-translations.php:221
+msgid "Embedded content from %s"
+msgstr "%s로부터 임베드 된 콘텐츠"
+
+#: languages/gutenberg-translations.php:217
+msgid "Sorry, we could not embed that content."
+msgstr "죄송합니다. 해당 콘텐츠를 임베드 할 수 없습니다."
+
+#: languages/gutenberg-translations.php:214
+msgid "Enter URL to embed here…"
+msgstr "여기에 임베드 하려면 URL을 입력하세요..."
+
+#: languages/gutenberg-translations.php:207
+msgid "Embedding…"
+msgstr "임베드중..."
+
+#: languages/gutenberg-translations.php:391
+msgid "Text Alignment"
+msgstr "텍스트 정렬"
+
+#: languages/gutenberg-translations.php:168
+msgid "Columns"
+msgstr "컬럼"
+
+#. translators: Block title modifier
+#: languages/gutenberg-translations.php:172
+msgid "%1$s (%2$s)"
+msgstr "%1$s (%2$s)"
+
+#: languages/gutenberg-translations.php:153
+msgid "Code"
+msgstr "코드"
+
+#: languages/gutenberg-translations.php:149
+msgid "Write code…"
+msgstr "코드 쓰기..."
+
+#: languages/gutenberg-translations.php:138
+msgid "Categories"
+msgstr "카테고리"
+
+#: languages/gutenberg-translations.php:134
+msgid "Show hierarchy"
+msgstr "계층구조 보이기"
+
+#: languages/gutenberg-translations.php:131
+msgid "Show post counts"
+msgstr "보여줄 글 수"
+
+#: languages/gutenberg-translations.php:125
+msgid "Categories Settings"
+msgstr "카테고리 설정"
+
+#: languages/gutenberg-translations.php:110
+msgid "Button"
+msgstr "버튼"
+
+#: languages/gutenberg-translations.php:103
+msgid "Apply"
+msgstr "적용"
+
+#: languages/gutenberg-translations.php:84
+msgid "Block has been deleted or is unavailable."
+msgstr "블록이 삭제됐거나 가능하지 않습니다."
+
+#: languages/gutenberg-translations.php:73
+msgid "Cancel"
+msgstr "취소"
+
+#: languages/gutenberg-translations.php:78
+msgid "Edit"
+msgstr "편집"
+
+#: languages/gutenberg-translations.php:24
+msgid "Edit audio"
+msgstr "오디오 편집"
+
+#: languages/gutenberg-translations.php:56
+msgid "Write caption…"
+msgstr "캡션 쓰기..."
+
+#: languages/gutenberg-translations.php:1539
+msgid "New post"
+msgstr "새 글"
+
+#: languages/gutenberg-translations.php:903
+msgid "Align left"
+msgstr "왼쪽 정열"
+
+#: languages/gutenberg-translations.php:1109
+msgid "Upload"
+msgstr "업로드"
+
+#: languages/gutenberg-translations.php:1449
+msgid "HTML Anchor"
+msgstr "HTML 링크"
+
+#: languages/gutenberg-translations.php:61
+msgid "Audio"
+msgstr "오디오"
+
+#: languages/gutenberg-translations.php:1455
+msgid "Additional CSS Class"
+msgstr "추가 CSS 클래스"
+
+#: languages/gutenberg-translations.php:1452
+msgid "Anchors lets you link directly to a section on a page."
+msgstr "앵커는 페이지에서 하나의 영역으로 바로 링크할 수 있는 요소입니다."
+
+#: languages/gutenberg-translations.php:1033
+msgid "This color combination may be hard for people to read. Try using a brighter background color and/or a darker text color."
+msgstr "이 색상조합은 사람들이 읽기 어려울 수 있습니다. 더 밝은 배경 색상 그리고/또는 어두운 글자 색상을 사용해보세요."
+
+#: languages/gutenberg-translations.php:1030
+msgid "This color combination may be hard for people to read. Try using a darker background color and/or a brighter text color."
+msgstr "이 색상조합은 사람들이 읽기 어려울 수 있습니다. 더 어두운 배경 색상 그리고/또는 밝은 글자 색상을 사용해보세요."
+
+#: languages/gutenberg-translations.php:1574
+msgid "Clear"
+msgstr "클리어"
+
+#: languages/gutenberg-translations.php:1563
+msgid "Custom color picker"
+msgstr "사용자 정의 색상 피커"
+
+#. translators: %s: The name of the color e.g: "vivid red".
+#: languages/gutenberg-translations.php:1567
+msgid "Color: %s"
+msgstr "색상: %s"
+
+#: languages/gutenberg-translations.php:917
+msgid "Full width"
+msgstr "전체폭"
+
+#: languages/gutenberg-translations.php:914
+msgid "Wide width"
+msgstr "넓은 폭"
+
+#: languages/gutenberg-translations.php:1560 lib/client-assets.php:1063
+msgid "Shared Blocks"
+msgstr "공유 블록"
+
+#: languages/gutenberg-translations.php:230
+msgid "Embed"
+msgstr "임베드"
+
+#: languages/gutenberg-translations.php:1554 lib/client-assets.php:1055
+msgid "Widgets"
+msgstr "위젯"
+
+#: languages/gutenberg-translations.php:1548 lib/client-assets.php:1047
+msgid "Formatting"
+msgstr "포맷"
+
+#: languages/gutenberg-translations.php:1545 lib/client-assets.php:1043
+msgid "Common Blocks"
+msgstr "공통 블록"
+
+#: languages/gutenberg-translations.php:911
+msgid "Align right"
+msgstr "우측 정렬"
+
+#: languages/gutenberg-translations.php:907
+msgid "Align center"
+msgstr "중앙 정렬"
+
+#. Description of the plugin/theme
+msgid "Printing since 1440. This is the development plugin for the new block editor in core."
+msgstr "1440부터 인쇄. 이것은 코어의 새로운 블록 편집기를 위한 개발 플러그인입니다."
+
+#: languages/gutenberg-translations.php:1325 lib/client-assets.php:1260
+msgid "Add title"
+msgstr "제목 추가"
+
+#: lib/client-assets.php:1230
+msgid "Adding theme support using the `gutenberg` array is deprecated. See https://wordpress.org/gutenberg/handbook/extensibility/theme-support/ for details."
+msgstr "`gutenberg` 어레이를 사용한 테마 지원 추가는 폐기예정입니다. 상세는 https://wordpress.org/gutenberg/handbook/extensibility/theme-support/ 를 보세요."
+
+#: lib/class-wp-rest-blocks-controller.php:111
+msgid "The block's title."
+msgstr "블록 제목"
+
+#: lib/class-wp-rest-blocks-controller.php:106
+msgid "Unique identifier for the block."
+msgstr "블록에 대한 독특한 식별자."
+
+#: gutenberg.php:138
+msgid "Gutenberg development mode requires files to be built. Run <code>npm install</code> to install dependencies, <code>npm run build</code> to build the files or <code>npm run dev</code> to build the files and watch for changes. Read the <a href=\"https://github.com/WordPress/gutenberg/blob/master/CONTRIBUTING.md\">contributing</a> file for more information."
+msgstr "구텐베르그 개발모드는 파일이 생성돼야 합니다. 의존성을 설치하려면 <code>npm install</code>을 실행하고, 파일을 생성하려면 <code>npm run build</code>를 실행하거나 파일을 생성하고 변경을 워치하려면 <code>npm run dev</code>를 실행하세요. 더 많은 정보는 <a href=\"https://github.com/WordPress/gutenberg/blob/master/CONTRIBUTING.md\">기여하기</a> 파일을 보세요."
+
+#: languages/gutenberg-translations.php:1127 lib/register.php:188
+msgid "Author"
+msgstr "글쓴이"
+
+#: lib/register.php:184
+msgid "Slug"
+msgstr "슬러그"
+
+#: lib/register.php:179
+msgid "Comments"
+msgstr "댓글"
+
+#: languages/gutenberg-translations.php:809 lib/register.php:166
+msgid "Discussion"
+msgstr "토론"
+
+#: lib/register.php:150
+msgid "Custom Fields"
+msgstr "사용자 정의 필드"
+
+#: lib/register.php:146
+msgid "Send Trackbacks"
+msgstr "트랙백 보내기"
+
+#: languages/gutenberg-translations.php:830 lib/register.php:142
+msgid "Excerpt"
+msgstr "요약글"
+
+#: lib/register.php:112
+msgctxt "post format"
+msgid "Format"
+msgstr "글 형식"
+
+#: languages/gutenberg-translations.php:834 lib/register.php:108
+msgid "Publish"
+msgstr "공개하기"
+
+#: languages/gutenberg-translations.php:44 lib/register.php:105
+msgid "Metadata"
+msgstr "메타데이터"
+
+#: languages/gutenberg-translations.php:70 lib/register.php:101
+msgid "Save"
+msgstr "저장하기"
+
+#: lib/register.php:94
+msgid "Revisions"
+msgstr "리비전"
+
+#: lib/class-wp-block-type-registry.php:66
+msgid "Block type names must not contain uppercase characters."
+msgstr "블록 타입 이름은 대문자를 포함하면 안됩니다."
+
+#: gutenberg.php:381
+msgid "Toggle editor selection menu"
+msgstr "편집기 선택 메뉴 토글"
+
+#: gutenberg.php:81
+msgid "Documentation"
+msgstr "문서"
+
+#: lib/class-wp-rest-blocks-controller.php:116
+msgid "The block's HTML content."
+msgstr "블록의 HTML 콘텐츠."
+
+#: gutenberg.php:75
+msgid "Feedback"
+msgstr "피드백"
+
+#. translators: %s: post title
+#: gutenberg.php:257
+msgid "Edit &#8220;%s&#8221; in the classic editor"
+msgstr "구 버전 편집기에서 &#8220;%s&#8221 편집하기"
+
+#: gutenberg.php:260 gutenberg.php:383
+msgid "Classic Editor"
+msgstr "구 버전 편집기"
+
+#: core-blocks/categories/index.php:35
+msgid "Select Category"
+msgstr "카테고리 선택"
+
+#: core-blocks/latest-posts/index.php:31
+#: languages/gutenberg-translations.php:143
+msgid "(Untitled)"
+msgstr "(제목 없음)"
+
+#. Author of the plugin/theme
+msgid "Gutenberg Team"
+msgstr "구텐베르크 팀"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Plugin Name of the plugin/theme
+msgid "Gutenberg"
+msgstr "구텐베르그"
+
+#: gutenberg.php:61 gutenberg.php:62
+msgid "Demo"
+msgstr "데모"
+
+#: lib/client-assets.php:269
+msgid "F j, Y g:i a"
+msgstr "Y F j, g:i a"
+
+#: lib/client-assets.php:268
+msgid "F j, Y"
+msgstr "Y F j"
+
+#: lib/client-assets.php:267
+msgid "g:i a"
+msgstr "g:i a"
+
+#. translators: %s: duration
+#: lib/client-assets.php:263
+msgid "%s ago"
+msgstr "%s 전"
+
+#. translators: %s: duration
+#: lib/client-assets.php:261
+msgid "%s from now"
+msgstr "지금부터 %s"
+
+#. translators: 1: block name
+#: lib/class-wp-block-type-registry.php:111
+msgid "Block type \"%s\" is not registered."
+msgstr "블록 타입 \"%s\"은(는) 등록되지 않았습니다."
+
+#. translators: 1: block name
+#: lib/class-wp-block-type-registry.php:80
+msgid "Block type \"%s\" is already registered."
+msgstr "블록 타입 \"%s\"은(는) 이미 등록 됐습니다."
+
+#: lib/class-wp-block-type-registry.php:73
+msgid "Block type names must contain a namespace prefix. Example: my-plugin/my-custom-block-type"
+msgstr "블록타입 이름은 네임스페이스 접두어를 포함해야 합니다. 예: my-plugin/my-custom-block-type"
+
+#: lib/class-wp-block-type-registry.php:60
+msgid "Block type names must be strings."
+msgstr "블록타입 이름은 문자열이어야 합니다."
+
+#: lib/class-wp-rest-block-renderer-controller.php:94
+msgid "Sorry, you are not allowed to read Gutenberg blocks as this user."
+msgstr "죄송합니다. 이 사용자로서 구텐베르그 블록을 읽을 권한이 없습니다."
+
+#: gutenberg.php:125
+msgid "Gutenberg requires WordPress 4.9.6 or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "구텐베르크는 워드프레스 4.9.6 이상 버전에서만 정상적으로 동작합니다. 구텐베르크를 활성화 하기 전에 워드프레스를 업그레이드 해주세요."
+
+#. translators: %s is the name of the plugin that generated this meta box.
+#: lib/meta-box-partial-page.php:261
+msgid "Gutenberg incompatible meta box, from the \"%s\" plugin."
+msgstr "구텐베르그 비호환성 메타박스, \"%s\" 플러그인으로부터."
